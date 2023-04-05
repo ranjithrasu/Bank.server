@@ -1,0 +1,41 @@
+.header_content{
+    text-align: center;
+    font-size: 36px;
+    color: green;
+}
+.content{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    color: black;
+
+}
+.application_no{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 50px;
+    color: black;
+   
+}
+.application{
+    text-align: center;
+    font-size: 14px;
+    margin-top: -10px;
+    color: black;
+}
+.middle_content{
+    margin: 90px 274px 10px 346px;
+    box-sizing: border-box;
+    font-family: Bitter,serif;
+    color: black;
+    line-height: 20px;
+}
+.continue_banking{
+ margin:  40px 0px ;
+    padding: 20px;
+    width: 190px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    height: 58px;
+}

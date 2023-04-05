@@ -1,0 +1,14 @@
+.control-container{
+    background-color: white;
+    border: 1px solid green;
+    display: inline-flex;
+    padding: 5px;
+    column-gap: 4px;
+    border-radius: 20px;  
+}
+.control-item{
+    background-color: white;
+    min-width: 100px;
+    cursor: pointer;
+    padding: 4px 8px;
+}

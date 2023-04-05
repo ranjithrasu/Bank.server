@@ -1,0 +1,42 @@
+.ant-tabs-tab {
+    font-size: 20px !important;
+    
+}
+.ant-tabs-nav-warp {
+border:1px solid black !important;
+padding: 5px !important;
+width: 500px !important;
+}
+
+.ant-tabs-tab-active{
+    border: 1px solid green !important;
+    border-radius: 100px;
+    padding: 8px;
+    background-color: green;
+    color: green;
+}
+.ant-tabs-ink-bar{
+    border: none !important;
+    width: 0px !important;
+    left: 0px !important;
+
+}
+
+.ant-tabs-tab-btn{
+    font-weight: bold;
+}
+.ant-tabs-nav{
+    /* border: 1px solid black; */
+    padding: 10px;
+   width: 100%;
+}
+.ant-tabs-nav-list{
+    border: 1px solid black !important;
+    padding: 10px;
+    border-radius:  50px !important;
+    margin-left: 560px;
+}
+.ant-tabs{
+    width: 100% !important;
+    border: none;
+}

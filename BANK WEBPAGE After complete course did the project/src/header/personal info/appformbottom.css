@@ -1,0 +1,135 @@
+.bottom-aboutus-1{
+    margin-top: 2px;
+    display: flex;
+    padding: 30px 121px;
+    justify-content: space-between;
+    color: silver;
+    background-color:  #363636;
+}
+.bottom-aboutus-1 div{
+    width: 300px;
+}
+.bottom-aboutus-1 img{
+    width: 105px;
+    height: 105px;
+}
+.bottom-aboutus-1 p{
+    font-size: 16px;
+    line-height: 2;
+}
+.bank-bottom div{
+font-size: 14px;
+}
+.bank-bottom h1{
+    margin: 20px 0px;
+}
+.lo{
+    margin-top: 5px;
+}
+.bottom-aboutus-2{
+    padding: 30px 121px;
+    background-color:  #363636;
+    color: silver;
+}
+.bottom-aboutus-2 div{
+    margin-top: 5px;
+}
+.para{
+     color: silver;
+}
+
+.bottom-aboutus{
+    cursor: pointer;
+}
+.bottom-aboutus h3:hover{
+    cursor: pointer;
+    color: green;
+}
+.bottom-aboutus h2:hover{
+    cursor: pointer;
+    color: green;
+}
+.bottom-aboutus h1:hover{
+    cursor: pointer;
+    color: green;
+}
+.bottom-aboutus p:hover{
+    cursor: pointer;
+    color: green;
+}
+.lo:hover{
+    cursor: pointer;
+    color: green; 
+}
+.loo:hover{
+    cursor: pointer;
+    color: green; 
+}
+.footercontent-logo{
+    display: flex;
+    justify-content: center;
+}
+.footercontent-logo div{
+    width: 50px;
+    height: 45px;
+    border-radius: 30px;
+    border: 1px solid #333 ;
+    text-align: center;
+    /* margin:10px ; */
+}
+.logooo{
+    margin: 0px 0px;
+   font-size: 30px;
+    color: green;
+}
+.footercontent-follow{
+    font-weight: 700;
+    font-size: 20px;
+    color: #f0f0f0;
+    margin-top: 40px;
+}
+.footercontent-email{
+    
+    font-size: 16px;
+    width: 220px;
+    height: 50px;
+    color: #000;
+    background-color: #f6b443;
+    margin: 20px 0;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 653px;
+}
+.footercontent-atm{
+    margin-top: 20px;
+    font-size: 16px;
+    width: 220px;
+    height: 50px;
+    background-color: green;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 653px;
+    color: #f0f0f0;
+}
+.footercontent-call{
+    font-size: 32px;
+    padding-bottom: 20px;
+    color: #f0f0f0;
+}
+.footercontent-talk{
+    font-size: 20px;
+    padding: 20px 0;
+    font-weight: 700;
+    color: #f0f0f0;
+}
+.footercontent{
+    background-color: #333;
+    text-align: center;
+}
+.Bottom-aboutus{
+    margin-top: 70px;
+}

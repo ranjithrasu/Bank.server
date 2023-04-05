@@ -1,0 +1,100 @@
+.loaninformationmaincontent{
+   
+    background-color: #39821c08;
+}
+.loaninformationheader{
+    text-align: center;
+   color: green;
+   font-family: auto;
+
+}
+.loaninformationalertcontainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.InfoCircleOutlined{
+   color: white;
+}
+.loaninformationalertcontainerlogo{
+    background-color: green;
+    border: 1px solid green;
+    padding: 20px;
+}
+.loaninformationalertcontainercontent{
+    border: 1px solid green;
+    color: black;
+    padding: 20px;
+    text-indent: 15px;
+}
+
+.loaninformation_subheading{
+    font-size: 38px;
+    margin-left: 195px;
+    font-family: auto;
+    color:green;
+   margin-top: 20px;
+}
+.Personal_information_table{ 
+display: flex;
+justify-content: space-between;
+color: green;
+padding: 0px 20px 0px 20px;
+margin:52px 194px 10px 194px;
+background-color: #39821c08;
+font-weight: 500;
+font-size: 20px;
+
+}
+.Personal_information_table p{ 
+    color: green;
+    font-weight: 500;
+    font-size: 20px;
+    }
+
+.Personal_information_listside{
+    display: flex;
+    margin:10px 194px 10px 194px;
+}
+.Personal_information_sideheader{
+    margin-left: 425px;
+}
+.sideheader_title{
+    color: green;
+    box-sizing: border-box;
+    font-family: Bitter,serif;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: start;
+    margin-bottom: -11px;
+    padding-left: 20px;
+}
+.listheader_titleanswer{
+    
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    box-sizing: border-box;
+    font-family: Bitter,serif;
+    text-align: start;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+.s1{
+    margin-left: 381px;
+}
+.s2{
+    margin-left: 482px;
+}
+.s3{
+    margin:54px 194px 10px 194px;
+}
+.s4 p{
+    margin-bottom: 0px;
+}
+.appicon{
+    margin-top: -20px;
+}
+
+
+   

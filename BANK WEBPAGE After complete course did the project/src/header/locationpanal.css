@@ -1,0 +1,36 @@
+.panalhead{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: green;
+}
+.panalp{
+    margin: 5px 0;
+    font-size: 16px;
+    color: #504b4b;
+    font-weight: 400;
+}
+.panal1{
+    margin-top: 20px;
+}
+.ant-collapse-header-text{
+    margin-inline-end: auto;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ant-collapse-header-text:hover{
+    text-decoration: none;
+}
+.ant-collapse-header-text{
+    width: 600px;
+}
+.ant-collapse-header{
+    width: 700px !important;
+}
+.ant-collapse-arrow svg{
+    transform: rotate(270deg);
+}
+.ant-collapse-expand-icon{
+    margin-top: 5px;
+}

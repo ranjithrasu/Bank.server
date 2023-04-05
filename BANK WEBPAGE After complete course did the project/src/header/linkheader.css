@@ -1,0 +1,30 @@
+
+.headerright{
+    display: flex;
+    border: 1px solid white;
+    float: right;
+    background-color: #f0f0f0;
+}
+.topphead{
+    background-color: #f0f0f0;
+    height: 39px;  
+}
+.link1{
+    margin-left: 52pc;
+}
+.f1{
+    text-decoration-line: none;
+}
+
+.link2{
+    color: black;
+    padding-left: 5px;
+}
+
+.link{width: 100px;
+    text-align: center;
+    color: #008000;
+    border: 1px black;
+    padding: 10px;
+}
+

@@ -1,0 +1,20 @@
+.steps{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 100px;
+    text-align: center;
+}
+.line{
+    border: 1px solid black;
+    height: 0px;
+    width: 19%;
+    margin: 28px -40px;
+}
+.inputbox{
+    text-align: center;
+    padding: 20px;
+}
+.box{
+    width: 350px;
+    margin-left: 123px;
+}

@@ -1,0 +1,188 @@
+.mailheader{
+    display: flex;
+    background-color: rgb(245, 249, 249);
+}
+.home{
+    text-decoration: none;
+}
+.textcolor{
+    color: rgb(25, 175, 25);
+}
+.mailcontent{
+width: 50%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+line-height: 30px;
+padding: 15px;
+
+}
+.mailimage{
+    width: 50%;
+}
+.text{
+   text-indent: 70px;
+}
+
+.mailtoptext{
+ border: 2px solid rgb(235, 229, 229);
+ border-radius: 10px;
+ width: 60%;
+ margin: 15px;
+ margin-left: 280px;
+ padding: 15px;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 18px;
+line-height: 30px;
+
+}
+.paratext{
+    color: rgb(92, 88, 88);
+}
+.mailtoptext:hover{
+    cursor: pointer;
+    box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+    transition: box-shadow 0.2s,border-color 0.2s;
+}
+.learnmore{
+    font-size: 20px;
+    margin-top: 10px;
+    color: rgb(92, 88, 88);
+}
+.learnmore:hover{
+    color: green;
+}
+.chequebox{
+    display: flex;
+    justify-content: center;
+}
+.chequebox1{
+    width: 15%;
+    border: 2px solid rgb(235, 229, 229);
+ border-radius: 10px;
+ padding: 15px;
+ margin: 10px 10px 10px 10px;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 18px;
+line-height: 25px;
+}
+.chequebox1:hover{
+    cursor: pointer;
+box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+transition: box-shadow 0.2s,border-color 0.2s;
+}
+.framecomponent{
+display: flex;
+margin: 5px;
+justify-content: center;
+background-color: rgb(245, 249, 249);
+padding: 30px;
+}
+.framecomponentbox{
+    width: 10%;
+    border: 2px solid rgb(235, 229, 229);
+ border-radius: 10px;
+ padding: 15px;
+ margin: 10px 10px 10px 10px;
+ background-color: white;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 18px;
+line-height: 25px;
+}
+.framecomponentbox:hover{
+    cursor: pointer;
+box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+transition: box-shadow 0.2s,border-color 0.2s;
+}
+.framecomponentmenu1{
+  
+    width: 143px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+ height: 295px;
+ background-color: white;
+ padding: 15px;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 18px;
+line-height: 25px;
+}
+.framecomponentmenu1:hover{
+    cursor: pointer;
+}
+.framecomponentimage{
+    width: 20%;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 325px;
+}
+.frameimmageee{
+    border: 2px solid rgb(235, 229, 229);
+    display: flex;
+    height: 325px;
+    border-radius: 10px;
+}
+.frameimmageee:hover{
+    box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+    transition: box-shadow 0.2s,border-color 0.2s;
+}
+.framecomponentimage img{
+    width: 237px;
+    height: 325px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+;
+}
+.framecomponentimage:hover{
+    cursor: pointer;
+
+}
+.realstorymaincontainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.realstorycontainer1{
+    margin: -10px 10px 0px 10px;
+    width: 40%;
+    height: 300px;
+}
+.realstorycontainer2{
+    margin: 50px 0px 0px 10px;
+    width: 20%;
+}
+iframe{
+    margin-top: -10px;
+}
+.otherwaysheader{
+   text-align:center;
+   border: 1px solid rgb(235, 229, 229);
+   border-radius: 10px;
+   margin: 100px 500px 0px 500px;
+   
+}
+.otherwaysmenu1{
+    padding: 20px;
+    border-radius: 2px;
+    border: 2px solid rgb(235, 229, 229);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.otherwaysmenu{
+    padding: 20px;
+    border-radius: 2px;
+    border: 2px solid rgb(235, 229, 229);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.otherwaysmenu:hover{
+    color: green;
+    background-color: rgb(212, 215, 215);
+}
+.careright{
+    color: #008000;
+    margin-left: 250px;
+
+}
+.otherwaysheader1{
+    margin-bottom: 50px;
+}
